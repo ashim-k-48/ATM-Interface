@@ -1,4 +1,8 @@
 import java.util.*;
+class Info{
+		String a;
+		int age;
+}
 class User{
 	String name;
 	int pin;
